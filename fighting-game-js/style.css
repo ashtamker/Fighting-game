@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+/* .health-bar {
+    background-color: yellow;
+    height: 30px;
+    width: 100%;
+} */
+
+.timer {
+    background-color: red;
+    height: 100px; 
+    width: 100px; 
+    flex-shrink: 0;
+}
